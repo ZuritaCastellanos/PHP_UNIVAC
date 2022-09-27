@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Lenguaje php</title>
+</head>
+<body>
+<?php
+echo"**********************************************<br>";
+echo"Autor Fabian Castellanos <br>";
+echo"Practica: Primer codigo en PHP<br>";
+echo"**********************************************<br>";
+echo"Mi primer script en PHP<br>";
+?>
+</body>
+</html>
